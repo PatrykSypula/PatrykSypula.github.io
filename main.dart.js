@@ -30386,7 +30386,7 @@ s=6
 return A.U($.xp().Hs(o.z.c),$async$hI)
 case 6:n=b
 A.he(n)
-m=A.a7k("\r\n",";").pR(n,t.z)
+m=A.a7k("\n",";").pR(n,t.z)
 A.he(m)
 for(j=m,i=j.length,h=o.d,g=0;g<j.length;j.length===i||(0,A.B)(j),++g){l=j[g]
 f=B.d.iO(J.cz(J.jU(l,0)))
