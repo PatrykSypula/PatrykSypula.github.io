@@ -1,6 +1,6 @@
-﻿I am student\nI am student too;私 は がくせい です\n私 も がくせい です
-Patryk can speak polish\nPatrycja can speak polish too;パトリックさん は ポーランドご が できます\nパトリシアさん も ポーランドご が できます
-I can speak polish\nI can speak japanese too;私 は ポーランドご が できます\n私 は にほんご も できます
+﻿I am student\nI am student too;私 は がくせい です。\n私 も がくせい です。
+Patryk can speak polish\nPatrycja can speak polish too;パトリックさん は ポーランドご が できます。\nパトリシアさん も ポーランドご が できます。
+I can speak polish\nI can speak japanese too;私 は ポーランドご が できます。\n私 は にほんご も できます。
 notebook;ノート
 book;ほん
 newspaper;しんぶん
@@ -11,13 +11,19 @@ chair;いす
 key;かぎ
 car;くるま
 table;テーブル
-this is;これは
+this is;これ は
+too, also;も
 is this book?;これ は ほん ですか
 no, it's not book;いいえ、ほん じゃない です
 what's this?;なん ですか
 this is notebook;ノート です
 this (close);これ
-that (mid distance);それ
+that (mid);それ
 that (far);あれ
-what is this? (distance);これ は なんですか
-that is note　(distance);それ は ノート です
+what is this? (close);これ は なんですか
+that is note　(mid);それ は ノート です
+Whose pen is this?;それ は だれ の ペン ですか
+This pen is mine;この ペン は 私 の です
+This + noun (close);この
+That + noun (mid);その
+That + noun (far);あの
