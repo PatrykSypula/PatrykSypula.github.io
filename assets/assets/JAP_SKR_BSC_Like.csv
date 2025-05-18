@@ -1,6 +1,6 @@
 ﻿Patryk what do you like?;パトリックさん は なに が すき ですか。
 I like vegetables;私 は やさい が すき です。
-how about fruits?;くだもの は。
+How about fruits?;くだもの は。
 I like fruits too;くだもの も すき です。
 I don't like fruits;くだもの は すき じゃないです。
 Patryk do you like fish?;パトリックさん は さかな が すき ですか。
@@ -10,6 +10,9 @@ Patryk what food (category) do you like?;パトリックさん は たべもの 
 I like sushi;私 は すし が すき です。
 What ice cream (category) do you like?;アイスクリーム は なに が すき ですか。
 I like strawberry ice cream;いちご の アイスクリーム が すき です。
+Patryk do you eat cake?;パトリックさん は ケーキ を たべますか。
+Yes. I eat cake.;はい。私 は ケーキ を たべます。
+No. I dont eat cake.;いいえ。私 は ケーキ は たべません。
 food;たべもの
 meat;にく
 fish;さかな
