@@ -6291,7 +6291,7 @@ Zh:function Zh(){},
 Zi:function Zi(){},
 Zj:function Zj(){},
 k6:function k6(a){this.a=a},
-DI:function DI(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s){var _=this
+DI:function DI(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,a0,a1){var _=this
 _.d=a
 _.e=b
 _.f=c
@@ -6311,6 +6311,8 @@ _.cx=p
 _.cy=q
 _.db=r
 _.dx=s
+_.dy=a0
+_.fr=a1
 _.c=_.a=null},
 Zp:function Zp(a,b){this.a=a
 this.b=b},
@@ -30297,7 +30299,7 @@ A.iv.prototype={
 aj(){var s,r=$.fg
 if(r==null)r=$.fg=new A.jm()
 s=t.s
-return new A.DH(r,A.b([],s),A.b(["Random","Thematic"],s),A.b(["Mine","Sakura","JLPT"],s),A.b(["N5"],s),A.b(["Adjectives","Adverbs","Katakana words","Nouns","Particles","Pre-noun adjectivals","Verbs"],s),A.b(["i","na"],s),A.b(["Basic","Words","Advanced","Kanji"],s),A.b(["Basic","Words","Advanced","Kanji"],s),A.au(["english",!0,"english/Random",!1,"english/Thematic",!1,"japanese",!0,"japanese/JLPT",!0,"japanese/JLPT/N5",!0,"japanese/JLPT/N5/Adjectives",!0,"japanese/JLPT/N5/Adjectives/na",!1,"japanese/JLPT/N5/Adjectives/i",!1,"japanese/JLPT/N5/Adverbs",!1,"japanese/JLPT/N5/Katakana words",!1,"japanese/JLPT/N5/Nouns",!1,"japanese/JLPT/N5/Particles",!1,"japanese/JLPT/N5/Pre-noun adjectivals",!1,"japanese/JLPT/N5/Verbs",!1,"japanese/Mine",!0,"japanese/Mine/Advanced",!1,"japanese/Mine/Basic",!1,"japanese/Mine/Words",!1,"japanese/Mine/Kanji",!1,"japanese/Sakura",!0,"japanese/Sakura/Advanced",!1,"japanese/Sakura/Basic",!1,"japanese/Sakura/Words",!1,"japanese/Sakura/Kanji",!1],t.N,t.y))}}
+return new A.DH(r,A.b([],s),A.b(["Random","Thematic"],s),A.b(["Mine","Sakura","JLPT"],s),A.b(["N5"],s),A.b(["Adjectives","Adverbs","Grammar","Kanji","Katakana words","Nouns","Particles","Pre-noun adjectivals","Verbs"],s),A.b(["i","na"],s),A.b(["Basic","Words","Advanced","Kanji"],s),A.b(["Basic","Words","Advanced","Kanji"],s),A.au(["english",!0,"english/Random",!1,"english/Thematic",!1,"japanese",!0,"japanese/JLPT",!0,"japanese/JLPT/N5",!0,"japanese/JLPT/N5/Adjectives",!0,"japanese/JLPT/N5/Adjectives/na",!1,"japanese/JLPT/N5/Adjectives/i",!1,"japanese/JLPT/N5/Adverbs",!1,"japanese/JLPT/N5/Grammar",!1,"japanese/JLPT/N5/Kanji",!1,"japanese/JLPT/N5/Katakana words",!1,"japanese/JLPT/N5/Nouns",!1,"japanese/JLPT/N5/Particles",!1,"japanese/JLPT/N5/Pre-noun adjectivals",!1,"japanese/JLPT/N5/Verbs",!1,"japanese/Mine",!0,"japanese/Mine/Advanced",!1,"japanese/Mine/Basic",!1,"japanese/Mine/Words",!1,"japanese/Mine/Kanji",!1,"japanese/Sakura",!0,"japanese/Sakura/Advanced",!1,"japanese/Sakura/Basic",!1,"japanese/Sakura/Words",!1,"japanese/Sakura/Kanji",!1],t.N,t.y))}}
 A.DH.prototype={
 T(a){var s,r=this,q=null
 switch(r.d.a){case"english":r.e=r.f
@@ -30351,7 +30353,7 @@ A.k6.prototype={
 aj(){var s,r=$.fg
 if(r==null)r=$.fg=new A.jm()
 s=t.s
-return new A.DI(r,A.b(["1-100","101-200","201-300","301-400","401-500","501-600","601-700","701-800","801-900","901-1000","1001-1100","1101-1200","1201-1300","1301-1400","1401-1500","1501-1600","1601-1700"],s),A.b([],s),A.b([],s),A.b([],s),A.b([],s),A.b([],s),A.b([],s),A.b([],s),A.b([],s),A.b([],s),A.b(["Japan Phrases","Hobby","Personal pronouns","Academic subjects and others","Jobs","Countries","Time","Family","Daily Expressions","Katakana ya, yu, yo","Katakana","Hiragana ya, yu, yo","Hiragana"],s),A.b([],s),A.b(["Verbs 50","Nouns 50","Adjectives 50"],s),A.b(["N5 - Part 1","N5 - Part 2"],s),A.b(["Time period","Past and week days","Verb combinations","To do something","Katakana","Time","Frequency","Like","Family","Age and phone number","Numbers","Someone's","This is, too","Countries","Self introduction","Classroom words","Greetings"],s),A.b([],s),A.b(["Hiragana words 2","Verbs","Sports","Animals","Vegetables","Fruits","Katakana words","Hiragana words"],s),A.b(["Kanji"],s))}}
+return new A.DI(r,A.b(["1-100","101-200","201-300","301-400","401-500","501-600","601-700","701-800","801-900","901-1000","1001-1100","1101-1200","1201-1300","1301-1400","1401-1500","1501-1600","1601-1700"],s),A.b([],s),A.b(["Adjectives i Part 1","Adjectives i Part 2"],s),A.b(["Adjectives na"],s),A.b(["Adverbs"],s),A.b(["Grammar Part 1","Grammar Part 2","Grammar Part 3"],s),A.b(["Kanji Part 1","Kanji Part 2"],s),A.b(["Katakana words"],s),A.b(["Nouns Part 1","Nouns Part 2","Nouns Part 3","Nouns Part 4","Nouns Part 5","Nouns Part 6","Nouns Part 7","Nouns Part 8"],s),A.b(["Particles"],s),A.b(["Pre-noun adjectivals"],s),A.b(["Verbs Part 1","Verbs Part 2","Verbs Part 3"],s),A.b(["Japan Phrases","Hobby","Personal pronouns","Academic subjects and others","Jobs","Countries","Time","Family","Daily Expressions","Katakana ya, yu, yo","Katakana","Hiragana ya, yu, yo","Hiragana"],s),A.b([],s),A.b(["Verbs 50","Nouns 50","Adjectives 50"],s),A.b(["N5 - Part 1","N5 - Part 2"],s),A.b(["Time period","Past and week days","Verb combinations","To do something","Katakana","Time","Frequency","Like","Family","Age and phone number","Numbers","Someone's","This is, too","Countries","Self introduction","Classroom words","Greetings"],s),A.b([],s),A.b(["Hiragana words 2","Verbs","Sports","Animals","Vegetables","Fruits","Katakana words","Hiragana words"],s),A.b(["Kanji"],s))}}
 A.DI.prototype={
 T(a){var s=null,r=A.b([B.ay,B.bw],t.W)
 return A.na(A.fA(s,A.pk(A.nn(A.iz(this.NA(),B.ab,B.b3),B.ai),s,s),new A.cR(s,s,s,s,s,new A.eH(B.bf,B.aY,B.aA,r,s,s),B.a5),1/0,s,s,1/0))},
@@ -30362,35 +30364,39 @@ case"english/Thematic":h=j.f
 break
 case"japanese/JLPT/N5/Adjectives/i":h=j.r
 break
-case"japanese/JLPT/N5/Adjectives/na":h=j.r
+case"japanese/JLPT/N5/Adjectives/na":h=j.w
 break
 case"japanese/JLPT/N5/Adverbs":h=j.x
 break
-case"japanese/JLPT/N5/Katakana words":h=j.y
+case"japanese/JLPT/N5/Grammar":h=j.y
 break
-case"japanese/JLPT/N5/Nouns":h=j.z
+case"japanese/JLPT/N5/Kanji":h=j.z
 break
-case"japanese/JLPT/N5/Particles":h=j.Q
+case"japanese/JLPT/N5/Katakana words":h=j.Q
 break
-case"japanese/JLPT/N5/Pre-noun adjectivals":h=j.as
+case"japanese/JLPT/N5/Nouns":h=j.as
 break
-case"japanese/JLPT/N5/Verbs":h=j.at
+case"japanese/JLPT/N5/Particles":h=j.at
 break
-case"japanese/Mine/Advanced":h=j.ay
+case"japanese/JLPT/N5/Pre-noun adjectivals":h=j.ax
 break
-case"japanese/Mine/Basic":h=j.ax
+case"japanese/JLPT/N5/Verbs":h=j.ay
 break
-case"japanese/Mine/Words":h=j.ch
+case"japanese/Mine/Advanced":h=j.CW
 break
-case"japanese/Mine/Kanji":h=j.CW
+case"japanese/Mine/Basic":h=j.ch
 break
-case"japanese/Sakura/Basic":h=j.cx
+case"japanese/Mine/Words":h=j.cx
 break
-case"japanese/Sakura/Words":h=j.db
+case"japanese/Mine/Kanji":h=j.cy
 break
-case"japanese/Sakura/Advanced":h=j.cy
+case"japanese/Sakura/Basic":h=j.db
 break
-case"japanese/Sakura/Kanji":h=j.dx
+case"japanese/Sakura/Words":h=j.dy
+break
+case"japanese/Sakura/Advanced":h=j.dx
+break
+case"japanese/Sakura/Kanji":h=j.fr
 break}s=A.b([],t.E)
 try{for(o=h,n=o.length,m=0;m<o.length;o.length===n||(0,A.C)(o),++m){r=o[m]
 q=r
