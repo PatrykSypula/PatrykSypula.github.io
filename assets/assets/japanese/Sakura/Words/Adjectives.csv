@@ -4,12 +4,12 @@ Expensive;たかいです
 Cheap;やすいです
 Fast;はやいです
 Slow;おそいです
-Big;おおきです
+Big;おおきいです
 Small;ちいさいです
-Hot weather;あついです
-Cold weather;さむいです
-Hot liquid,thing;あついです
-Cold liquid, thing;つめたいです
+Hot (weather);あついです
+Cold (weather);さむいです
+Hot (liquid, thing);あついです
+Cold (liquid, thing);つめたいです
 Tall;たかいです
 Low, short;ひくいです
 Tall person;せがたかいです
@@ -45,22 +45,21 @@ Negative like;すきじゃないです
 Hate;きらいです
 Negative hate;きらいじゃないです
 Good, skilled;じょうずです
-Negative good, skilled;じょうずじゃないです
 To be bad at something;へたです
-Negative to be bad at something;へたじゃないです
-To be good at something;とくいです
-Negative to be good at something;とくいじゃないです
-Not good at something, polite;にがてです
-Negative to not be good at something;にがてじゃないです
+To be good at something (subjective);とくいです
+(Negative) to be good at something (subjective);とくいじゃないです
+Bad at something, (subjective, polite);にがてです
 Lively;にぎやかです
-Negative lively;うるさいです
+(Negative) lively;うるさいです
 Quiet;しずかです
 Pretty, clean;きれいです
+(Negative) Pretty, clean;きれいじゃないです
 Famous;ゆうめいです
+(Negative) famous;ゆうめいじゃないです
 Convenient, handy;べんりです
 Easy;かんたんです
 Energetic, healthy;げんきです
 Kind (ex. stranger);しんせつです
 Free, available, not busy;ひまです
 Weird;へんです
-Hard (day);たいへんです
+Hard (ex. day);たいへんです
