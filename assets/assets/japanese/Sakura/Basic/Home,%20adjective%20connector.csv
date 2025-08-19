@@ -1,0 +1,22 @@
+What is this car like?;この くるま は どう ですか。
+This car is big and new.;この くるま は おおきくて あたらしい です。
+What is this city like?;この まち は どう ですか。
+This city is lively and quiet;この まち は にぎやかで しずかです。
+My home is mansion.;私 の いえ は マンション です。
+My home is old.;私 の いえ は ふるい です。
+I live with girlfriend.;私 は かのじょ と すんでいます。
+My friend lives alone.;私 の ともだち は ひとり で すんでいます。
+mansion;マンション
+apartment;アパート
+family home;いっこだて (いえ)
+home;いえ\n家
+city;まち
+sofa;ソファ
+television;テレビ
+bed;ベッド
+AC;エアコン
+table;テーブル
+い adjective connector;いです -> くて (-と)
+な adjective connector;です -> で (-と)
+(Negative connector) good;よくて
+(Negative connector) handsome;かっこよくて
