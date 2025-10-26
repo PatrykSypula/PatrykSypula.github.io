@@ -1,61 +1,61 @@
-write;かきます \nかく
-listen;ききます \nきく
-go;行きます \n行く
-swim;およぎます \nおよぐ
-erase, switch off;けします \nけす
-take out;だします \nだす
-talk;はなします \nはなす
-stand;たちます \nたつ
-wait;まちます \nまつ
-carry, hold;もちます \nもつ
-die;しにます \nしぬ
-play;あそびます \nあそぶ
-fly;とびます \nとぶ
-drink;のみます \nのむ
-rest;やすみます \nやすむ
-read;よみます \nよむ
-exist (object);あります \nある
-return, go back;かえります \nかえる
-sit;すわります \nすわる
-make;つくります \nつくる
-take;とります \nとる
-ride;のります \nのる
-understand;わかります \nわかる
-meet;あいます \nあう
-wash;あらいます \nあらう
-say;いいます \nいう
-sing;うたいます \nうたう
-buy;かいます \nかう
-breath smoke (cigarette);すいます \nすう
-use;つかいます \nつかう
-sleep;ねます \nねる
-eat;食べます \n食べる
-open;あけます \nあける
-shut;しめます \nしめる
-teach;おしえます \nおしえる
-remember;おぼえます \nおぼえる
-forget;わすれます \nわすれる
-answer;こたえます \nこたえる
-give (giver's perspective);あげます \nあげる
-give (receiver's perspective);くれます \nくれる
-come;きます \nくる
-do;します \nする
-get married;けっこん　します \nけっこん　する
-go for a walk;さんぽ　します \nさんぽ　する
-ask a question; しつもん　します　\nしつもん　する
-be born;うまれます \nうまえる
-become tired;つかれます \nつかれる
-Begin, start;はじめます \nはじめる
-watch, look;みます \nみる
-put on, wear;きます \nきる
-wake up;おきます \nおきる
-get off (train);おります \nおりる
-borrow, rent;かります \nかりる
-exist (life form);います \nいる
-do the laundry;せんたく　します \nせんたく　する
-do the cleaning;そうじ　します \nそうじ　する
-study;べんきょう　します \nべんきょう　する
-go on a trip;りょこう　します \nりょこう　する
-copy;コピー します\nコピー　する
-drive (a car);うんてん　します　\nうんてん　する
-dance;おどります \nおどる
+write;かきます\nかく
+listen;ききます\nきく
+go;行きます\n行く
+swim;およぎます\nおよぐ
+erase, switch off;けします\nけす
+take out;だします\nだす
+talk;はなします\nはなす
+stand;たちます\nたつ
+wait;まちます\nまつ
+carry, hold;もちます\nもつ
+die;しにます\nしぬ
+play;あそびます\nあそぶ
+fly;とびます\nとぶ
+drink;のみます\nのむ
+rest;やすみます\nやすむ
+read;よみます\nよむ
+exist (object);あります\nある
+return, go back;かえります\nかえる
+sit;すわります\nすわる
+make;つくります\nつくる
+take;とります\nとる
+ride;のります\nのる
+understand;わかります\nわかる
+meet;あいます\nあう
+wash;あらいます\nあらう
+say;いいます\nいう
+sing;うたいます\nうたう
+buy;かいます\nかう
+breath smoke (cigarette);すいます\nすう
+use;つかいます\nつかう
+sleep;ねます\nねる
+eat;食べます\n食べる
+open;あけます\nあける
+shut;しめます\nしめる
+teach;おしえます\nおしえる
+remember;おぼえます\nおぼえる
+forget;わすれます\nわすれる
+answer;こたえます\nこたえる
+give (giver's perspective);あげます\nあげる
+give (receiver's perspective);くれます\nくれる
+come;きます\nくる
+do;します\nする
+get married;けっこん します\nけっこん する
+go for a walk;さんぽ します\nさんぽ する
+ask a question;しつもん します \nしつもん する
+be born;うまれます\nうまれる
+become tired;つかれます\nつかれる
+begin, start;はじめます\nはじめる
+watch, look;みます\nみる
+put on, wear;きます\nきる
+wake up;おきます\nおきる
+get off (train);おります\nおりる
+borrow, rent;かります\nかりる
+exist (life form);います\nいる
+do the laundry;せんたく します\nせんたく する
+do the cleaning;そうじ します\nそうじ する
+study;べんきょう します \nべんきょう する
+go on a trip;りょこう します\nりょこう する
+copy;コピー します\nコピー する
+drive (a car);うんてん します\nうんてん する
+dance;おどります\nおどる
