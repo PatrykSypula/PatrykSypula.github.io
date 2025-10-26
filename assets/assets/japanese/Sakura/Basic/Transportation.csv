@@ -1,15 +1,22 @@
-Ken, how do you get to school?;けん　さん　は　どうやって　がっこう　に　行きますか
-I go to school by bus.;私　は　バス　で　がっこう　に　行きます。
-How do you get from home to Sakura?;うち　から　さくら　まで　どうやって　行きますか
-From home to Sakura I go by metro.;うち　から　さくら　まで　ちかてつ　で　行きます。
-How long does it take you to get from home to work?;うち　から　しごと　まで　どの　ぐらい　かかりますか
-From home to work it takes me about 1 hour.;うち　から　しごと　まで　一時　ぐらい　かかります。
-At Wierzbno station, I enter metro. I leave metro at Świętokrzyska station.;Wierzbno で　ちかてつ　に　のります。Swietokrzyska で　ちかてつ　を　おります。
-How to get from here to the airport?;ここ　から　くうこう　まで　どうやって　行きますか
-Train is the best to get to the airport. It’s the fastest way.;くうこう　は　でんしゃ　が　いい　です　よ。はやい　です　から。
+Ken, how do you get to school?;けん さん は どうやって がっこう に 行きますか。
+I go to school by bus.;私 は バス で がっこう に 行きます。
+How do you get from home to Sakura?;うち から さくら まで どうやって 行きますか。
+From home to Sakura I go by metro.;うち から さくら まで ちかてつ で 行きます。
+How long does it take you to get from home to work?;うち から しごと まで どの ぐらい かかりますか
+From home to work it takes me about 1 hour.;うち から しごと まで 一時間 ぐらい かかります。
+At Wierzbno station, I enter metro. I leave metro at Świętokrzyska station.;Wierzbno で ちかてつ に のります。 Świetokrzyska で ちかてつ を おります。
+How to get from here to the airport?;ここ から くうこう まで どうやって 行きますか
+Train is the best to get to the airport. Because it’s the fastest way.;くうこう は でんしゃ が いい です よ。 はやい です から。
+Every morning I go to job by metro.;私 は まい あさ ちかてつ で しごと に 行きます。
+At sunday last week I traveled to airport by bus.;私 は せん しゅう の 日曜日 バス で くうこう に 行きました。
+Mom always go to supermarket on foot.;おかあさん は いつも あるいて スーパー に 行きます。
+My father travels to america in april by plane.;私 の 父 は 四月 に ひこうき で アメリカ に きます。
+Today I go to my friend's house on foot.;私 は 今日 あるいて ともだち の うち に 行きます。
+How do you eat rice?;なに で ごはん を 食べますか。
+I eat rice using chopsticks.;はし で ごはん を 食べます。
 Motorbike;バイク
 Bike;じてんしゃ
-To walk on foot;あるいて　行きます
+To walk on foot;あるいて 行きます
 Metro;ちかてつ
 Train;でんしゃ
 Bus;バス
@@ -18,13 +25,19 @@ Transport;のりもの
 Airplane;ひこうき
 Tram;トラム
 Boat;ふね
-North;きた　北
-South;みなみ　南
-East;ひがし　東
-West;にし　西
+North;きた\n北
+South;みなみ\n南
+East;ひがし\n東
+West;にし\n西
 Airport;くうこう
-Train station;駅
-Bus stop;バスのりば　/ バス　てい
+Train station;えき\n駅
+Bus stop;バス の りば\nバス てい
 Taxi stop;タクシーのりば
 Then;そして
 Recommendation;おすすめ
+City;まち
+Easy;らくです
+Various;いろいろ
+softer after desu;ですよ
+tired;つかれています
+first time;はじめてです

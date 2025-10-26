@@ -1,0 +1,29 @@
+Place ( ) + [Move] いきます/きます/かえります。;Place (に) + [Move] いきます/きます/かえります。
+Place ( ) + [Exist] あります/います/すんでいます。;Place (に) + [Exist] あります/います/すんでいます。
+Place ( ) + [Action] 食べます/べんきょうします。;Place (で) + [Action] 食べます/べんきょうします。
+Vehicle ( ) + [Move] いきます/きます/かえります。;Vehicle (で) + [Move] いきます/きます/かえります。
+Tool ( ) + [Action] 食べます/かきます。;Tool (で) + [Action] 食べます/かきます。
+Number ( ) + [State/Action/Move] すんでいます/行きます。;Number (で) + [State/Action/Move] すんでいます/行きます。
+Person/people ( ) + [Action] 話します/しょくじをします。;Person/people (と) + [Action] 話します/しょくじをします。
+Vehicle ( ) + のります。;Vehicle (に) + のります。
+Vehicle ( ) + おります。;Vehicle (を) + おります。
+Topic ( ) Something ( ) + [recommend] いいですよ。;Topic (は) Something (が) + [recommend] いいですよ。
+I live in tokyo alone.;私 は 東京 に ひとり で すんでいます。
+I can speak japanese a little.;私 は 日本語 が すこし できます。
+Older sister's child is 3 years old.;あね の こども は さん さい です。
+I like anime. I like manga too.;アニメ が すきです。 マンガ も すきです。
+I often drink water.;私 は 水 を よく 飲みます。
+What animal do you like?;どうぶつ は なに が すきです。
+I like cats. I don't like dogs.;猫 が 好きです。 犬 は 好きじゃないです。
+From 9am to 4pm I am working.;ごぜん ９時 から ごご ４時 まで しごと を します。
+Usually I come back home at 6.;いつも ６時 に うち に かえります。
+I am doing party next week. When does it fits you?;らいしゅう パーティ を します。 いつ が いいですか。
+Sunday is okay.;日曜日 が いいです。
+Where do you usually read book?;いつも どこ で 本 を 読みかすか。
+In my room there is a chair and a desk. There isn't AC.;私 の へや に つくえ と いす が あります。エアコン は ありません。
+I am in the library.;私 は 本や の なか に います。
+How do you come from home to sakura?;うち から さくら まで どうやって きますか。
+I come by metro.;ちかてつ で きます。
+At Kabaty I enter metro.;Kabaty で ちかてつ に のります。
+At Świętokrzyska I exit metro.;Świętokrzyska で ちかてつ を おります。
+Bus is the best to get to the airport. Because it’s the most convenient.;くうこう は バス が いい です よ。 べんり です から。
