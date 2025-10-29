@@ -1,0 +1,18 @@
+Patryk what are you bad at?;パトリックさん なに を すること が にがて ですか。
+I am bad at swimming.;私 は およぐこと が にがて です。
+Is Ken bad at swimming?;けんさん は およぐこと が にがて ですか。
+Yes, Ken is bad at swimming.;はい、けんさん は およぐこと が にがて です。
+No, Ken is good at swimming.;いいえ、けんさん は およぐこと が じょうず です。
+Is Patrycja good at cooking?;パトリツィアさん は りょうり を すること が じょうず ですか。
+Yes, Patrycja is good at cooking.;はい、パトリツィアさん は りょうり を すること が じょうず です。
+No, Patrycja is bad at cooking.;いいえ、パトリツィアさん は りょうり を すること が にがて です。
+I am bad at playing piano.;私 は ピアノ を ひくこと が とくい です。
+I am good at playing piano.;私 は ピアノ を ひくこと が へた です。
+私 は じょうず;X
+私 は とくい;O
+私 は へた;O
+私 は にがて;O
+☺さん は じょうず;O
+☺さん は とくい;O
+☺さん は へた;X
+☺さん は にがて;O
